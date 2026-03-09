@@ -1,4 +1,6 @@
-item, price
-PCB, $7
-PCBA, $45
-total, $52
+item, price, link
+PCB, $7, jlcpcb.com
+PCBA, $45, jlcpcb.com
+acrylic, $5, https://www.amazon.com/FixtureDisplays%C2%AE-Nominal-Plexiglass-Tabletop-15643-6X6-NF/dp/B099Z3Y54B/ref=sr_1_1?crid=12MRUGLYQPM08&dib=eyJ2IjoiMSJ9.bwrXUXJPVfEUUGOcstb6OW1oUdJJFdomVWIMQsuaZkJ3_09hpqhV_a-v3yTYfOb5qmMfEHIglMSmT0vqpHroCT4pgpX9o3cJ-CnE6EuJb21ijxaJErLLQqhbtIVr0c5sW9LJajPZzOmUxOwJVahXBGl0Mx85-z_kaoHjkkQNpACKRNvT19Wp-fUhGlJ76hLlMfA6y4T6kVjPZdRpd1XvQYlomg0bObWw_zlLg006bQM.llWVyWuKthsq_PDd4JOVll7m-l5nJDtawurICGI3NF8&dib_tag=se&keywords=acrylic%2Bsheet%2B1%2F8&qid=1773094932&sprefix=acrylic%2Bsheet%2B1%2F8%2Caps%2C185&sr=8-1&th=1
+total, $52, -
+
