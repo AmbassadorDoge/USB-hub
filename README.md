@@ -11,7 +11,11 @@
 
 Made this because I needed a cheap and small USB hub I could carry so that my main hub could be kept at home. 
 
+## Assembly
+![asm](/assets/Assembly.png)
 
+## PCB
+![pcb](/assets/PCB.png)
 
 
 Made using KiCad & Onshape
