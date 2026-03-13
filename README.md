@@ -26,4 +26,4 @@ Made this because I needed a cheap and small USB hub I could carry so that my ma
 
 
 Made using KiCad & Onshape
-[Onshape link](https://cad.onshape.com/documents/166e42de1b24c1a1952d9a0a/w/ee2553dc721c4a7be2e464a8/e/28846ffd7bfde794f9e65d97?renderMode=0&uiState=69b48d32fcb0980240fb29e7)
+[Onshape link](https://cad.onshape.com/documents/166e42de1b24c1a1952d9a0a/w/ee2553dc721c4a7be2e464a8/e/28846ffd7bfde794f9e65d97)
